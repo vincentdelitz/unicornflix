@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-unicornflix-dev-140729-authRole",
+      "UnauthRoleArn": "arn:aws:iam::505620676846:role/amplify-unicornflix-dev-140729-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::505620676846:role/amplify-unicornflix-dev-140729-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-unicornflix-dev-140729-deployment",
+      "UnauthRoleName": "amplify-unicornflix-dev-140729-unauthRole",
+      "StackName": "amplify-unicornflix-dev-140729",
+      "StackId": "arn:aws:cloudformation:us-east-1:505620676846:stack/amplify-unicornflix-dev-140729/a2f62ef0-527b-11eb-ba1a-1277ff2044b7",
+      "AmplifyAppId": "d2437o3389lii2"
+    },
+    "categories": {
+      "auth": {
+        "unicornflixd536254a": {}
+      },
+      "video": {
+        "unicornflix": {
+          "s3UUID": "79b67r16"
+        }
+      }
+    }
+  }
+}
